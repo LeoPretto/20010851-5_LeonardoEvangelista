@@ -11,7 +11,7 @@
    </aside>
 
    <div>
-     <img class="img-prod" src="imagens/donutt.png"  alt="imagem_de_bolos">
+     <img class="img-prod" src="imagens/donutt.png"  alt="imagem donut tradicional">
      <div class="botao-valor">R$<?php echo $produtos["tradicional"]["preco"]?></div>
      <div class="botao-valor"><button  class="comprar">Comprar</button></div>
    </div>
